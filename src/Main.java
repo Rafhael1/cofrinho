@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Cofrinho - Rafhael Marques - RU: 3921519");
+
         Scanner input = new Scanner(System.in);
         Cofrinho cofrinho = new Cofrinho();
 
